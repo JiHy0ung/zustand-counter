@@ -228,3 +228,61 @@
   border-right: 30px solid rgb(0, 0, 0); /* 본체 색 */
   z-index: 3;
 }
+
+
+@media (max-width: 480px) {
+
+  .box{
+    top: -140px;
+    padding: 1.25rem;
+  }
+
+  .title-area{
+    padding-bottom: 10rem;
+  }
+
+  .triangle-border {
+    top: -140px;
+  }
+
+  .triangle-inner {
+    top: -142px;
+  }
+
+  .triangle-wrapper {
+    padding-bottom: 1rem;
+  }
+
+  .title{
+    font-size: 40px;
+  }
+
+  .result-box{
+    font-size: 9px;
+  }
+
+  .result{
+    padding-bottom: 8px;
+  }
+
+  .in-one {
+    padding: 8px 15px 8px 15px;
+  }
+
+  .in-num{
+    padding: 8px 15px 8px 15px;
+  }
+
+  .de-one {
+    padding: 8px 15px 8px 15px;
+  }
+
+  .de-num{
+    padding: 8px 15px 8px 15px;
+  }
+
+  .reset-button{
+    padding: 8px 15px 8px 15px;
+  }
+
+}
