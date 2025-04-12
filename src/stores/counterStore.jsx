@@ -2,7 +2,7 @@ import { create } from "zustand";
 
 const counterStore = create((set) => ({
 
-  count: 1,
+  count: 0,
   increase: () => set((state) => ({ count: state.count + 1 })),
   increaseBy: (value) => set((state) => ({ count: state.count + value })),
   decrease: () => set((state) => ({ count: state.count - 1 })),
