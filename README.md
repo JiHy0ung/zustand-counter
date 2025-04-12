@@ -1,12 +1,25 @@
-# React + Vite
+# CoNoo Zustand Counter Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Zustand Counter**
 
-Currently, two official plugins are available:
+### **[Zustand Counter 바로가기~🌦](https://zustand-counter-wheat.vercel.app/)**
+![image](https://cdn.slist.kr/news/photo/201609/6302_21913_4959.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br>
 
-## Expanding the ESLint configuration
+## 사용 언어
+* react
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<br>
+
+## 강의 외 추가 구현 내용
+* reset 버튼을 추가, 버튼 클릭 시 count가 0으로 리셋됨.
+
+<br>
+
+## **피드백 받은 내용**
+
+<br>
+
+## **느낀점 & 개선사항**
+앞으로 강의 진행하면서 진짜 많이 편해질 것 같음.
